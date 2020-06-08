@@ -1,0 +1,58 @@
+{
+  "name": "cordova-plugin-adid-idfv",
+  "version": "1.0.7",
+  "description": "Cordova Advertising ID (IDFA) Plugin for Android using Google Play Services API",
+  "cordova": {
+    "id": "cordova-plugin-adid-idfv",
+    "platforms": [
+      "android",
+      "browser"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ionic-lab/cordova-plugin-adid-idfv.git"
+  },
+  "dependencies": {
+    "cordova-plugin-googleplayservices": "19.0.3"
+  },
+  "keywords": [
+    "cordova",
+    "idfa",
+    "google",
+    "google play",
+    "advertising id",
+    "idfa for android",
+    "cordova plugin",
+    "advertiserId",
+    "advertisingId for android",
+    "advertising id for android",
+    "advertising id for android using google play",
+    "advertising id for android using google play services",
+    "android",
+    "download",
+    "install",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": {
+    "name": "ionic-lab",
+    "email": "skilldiscover@gmail.com"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/ionic-lab/cordova-plugin-adid-idfv/LICENSE.md"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/ionic-lab/cordova-plugin-adid-idfv/issues"
+  },
+  "homepage": "https://github.com/ionic-lab/cordova-plugin-adid-idfv/#readme"
+}
